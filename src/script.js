@@ -14,7 +14,6 @@ const canvas = document.querySelector('canvas#three-canvas');
 // Scene
 const scene = new THREE.Scene();
 
-
 // Texture Loader
 const textureLoader = new THREE.TextureLoader();
 
