@@ -22,7 +22,7 @@ const geometry = new THREE.PlaneBufferGeometry(1, 1.3);
 
 for(let i = 1; i <=4; i++){
   const material = new THREE.MeshBasicMaterial({
-    map: textureLoader.load(`/frogs/${i}.jpg`)
+    map: textureLoader.load(`./frogs/${i}.jpg`)
   });
   const img = new THREE.Mesh(geometry, material);
   img.position.set(Math.random()+.3, -i*1.8)
