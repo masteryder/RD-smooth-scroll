@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+  height: 100vh;
+}
+
+.intro{
+  background-color: rgb(24,24,24);
+}
