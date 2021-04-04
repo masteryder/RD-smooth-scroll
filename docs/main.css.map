@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles.css"],"names":[],"mappings":"AAAA;;IAEI,SAAS;IACT,UAAU;AACd;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,+BAA+B;AACjC,C","file":"main.css","sourcesContent":["*\n{\n    margin: 0;\n    padding: 0;\n}\n\nsection{\n  height: 100vh;\n}\n\n.intro{\n  background-color: rgb(24,24,24);\n}"],"sourceRoot":""}
